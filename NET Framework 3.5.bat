@@ -1,0 +1,1 @@
+dism.exe /online /enable-feature /featurename:netfx3 /Source:C:\sxs
